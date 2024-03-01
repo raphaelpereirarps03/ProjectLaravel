@@ -1,0 +1,41 @@
+.container-fluid {
+    width: 100vw;
+    background-color: '#ccc';
+}   
+
+.boxForm {
+    margin-top: 3%;
+    border-radius: 10px;
+    padding: 40px;
+    background-color: #fff;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    -webkit-box-shadow: -3px 1px 37px 2px rgba(57,79,79,1);
+    -moz-box-shadow: -3px 1px 37px 2px rgba(57,79,79,1);
+    box-shadow: -3px 1px 37px 2px rgba(57,79,79,1);
+    width: 25%;
+    
+}
+form {
+    width: 80%;
+}
+.boxForm input  {
+    padding: 5px;
+    border-radius: 10px;
+    width:100%
+}
+
+.boxForm textarea {
+    padding: 5px;
+    border-radius: 10px;
+    width:100%
+}
+
+.boxForm button  {
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    width: 80%;
+}
